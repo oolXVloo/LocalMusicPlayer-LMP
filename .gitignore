@@ -1,0 +1,14 @@
+# JavaScript dependencies
+node_modules/
+
+# Android/Gradle generated files and local machine settings
+android/.gradle/
+android/build/
+android/.idea/
+android/local.properties
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+
+# Operating system files
+desktop.ini
+.DS_Store
